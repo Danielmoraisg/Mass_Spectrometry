@@ -6,11 +6,11 @@ Sometimes it is not possible to simply extract mass spectrometry's raw data and 
 
 # Files
 ## Retrieve_Filter_data_pdf.ipynb
-This file is a brief explanation of the code
+This file is a brief explanation of the code used to filter the data after retrieving it as a pdf file from the machine.
 ## Retrieve_Filter_data.py
-This file is a code without explanation to be runned. **To use this file in your data you have to change the name of the file in line 2 from 'Sample.pdf' to whatever name you choose**
+This file is the code in "Retrieve_Filter_data_pdf.ipynb" without explanation to be runned.  **To use this file in your data you have to change the name of the file in line 2 from 'Sample.pdf' to whatever name you choose**
 ## Sample.pdf
-This file is the data used as a test to run the code
+This file is the data used as a test to run the code with Retrieve_Filter_data.py
 
 ## Sample.txt
-This is the output from the code
+This is the output from the code Retrieve_Filter_data.py
